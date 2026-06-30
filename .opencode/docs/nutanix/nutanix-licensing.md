@@ -33,6 +33,7 @@ The Nutanix Cloud Platform is composed of several modular software products:
 - **NCI (Nutanix Cloud Infrastructure)** → core HCI platform
 - **NCM (Nutanix Cloud Manager)** → operations & automation
 - **NUS (Nutanix Unified Storage)** → file, object, block storage
-- **NKP (Nutanix Kubernetes Platform)** → container platform
+- **NKP (Nutanix Kubernetes Platform)** → container platform -> https://www.nutanix.com/products/cloud-platform/software-options?utm_medium=redirect#nkp
 - **NDB (Nutanix Database Service)** → DBaaS
-- **NAI (Nutanix Enterprise AI)** → AI / LLM platform
+- **NAI (Nutanix Enterprise AI)** → AI / LLM platform - > https://www.nutanix.com/products/cloud-platform/software-options?utm_medium=redirect#nai
+
