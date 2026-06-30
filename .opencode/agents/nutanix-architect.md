@@ -34,6 +34,7 @@ The Nutanix platform is based on:
 - AOS (Acropolis OS) → storage + data services
 - AHV → integrated hypervisor
 - All the important components can be found here: https://portal.nutanix.com/page/documents/list?type=software
+- Read documentations under ..\docs\nutanix
 
 These components form a unified HCI stack combining compute, storage and virtualization into one platform [2](https://bing.com/search?q=Nutanix+AI+platform+architecture+components)  
 
