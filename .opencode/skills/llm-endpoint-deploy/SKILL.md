@@ -15,7 +15,7 @@ metadata:
 
 ## When to use me
 Use this when:
-- deploying LLM inference endpoints
+- plan to deploying LLM inference endpoints
 - preparing customer demos
 - validating infrastructure sizing
 
