@@ -35,5 +35,10 @@ The Nutanix Cloud Platform is composed of several modular software products:
 - **NUS (Nutanix Unified Storage)** → file, object, block storage
 - **NKP (Nutanix Kubernetes Platform)** → container platform -> https://www.nutanix.com/products/cloud-platform/software-options?utm_medium=redirect#nkp
 - **NDB (Nutanix Database Service)** → DBaaS
+
+Base-Licensing Cost for Nutanix AI
+- NAI Full-Stack Pro per core = 1,075 CHF
+- NAI-NKP Pro per vCPU = 926 CHF
+- GPU license per GB = 80 CHF
 - **NAI (Nutanix Enterprise AI)** → AI / LLM platform - > https://www.nutanix.com/products/cloud-platform/software-options?utm_medium=redirect#nai
 
